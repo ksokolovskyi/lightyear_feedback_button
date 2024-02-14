@@ -1,0 +1,18 @@
+name: lightyear_feedback_button
+description: "Lightyear Feedback Button"
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: 6.1.0
+
+dev_dependencies:
+  very_good_analysis: 5.1.0
+
+flutter:
+  uses-material-design: true
